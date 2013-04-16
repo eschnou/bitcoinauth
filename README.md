@@ -31,7 +31,7 @@ Using BitcoinID to tip a user/post on the #indieweb
 ---------------------------------------------------
 
 1. Let's say you want to tip me 0.01 BTC for this awesome idea :-)
-2. The tip client fetches the page at htt://eschnou.com
+2. The tip client fetches the page at http://eschnou.com
 3. The client parse the page and search for an anchor with rel=me pointing to a bitcoin uri
 4. The client sends the payment to the bitcoin address
 
